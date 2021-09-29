@@ -1,2 +1,5 @@
-### Дипломный проект курса «HTML-вёрстка»
-[link](https://github.com/netology-code/html-2-diploma)
+## Noemi
+
+### Last news about art, health, lifestyle and more
+
+[Visit page](https://kvrdv.github.io/noemi)
